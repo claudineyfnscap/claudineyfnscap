@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%" />
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=#ffffff&center=true&width=435&lines=Hi,+my+name+is+Claudiney;I+am+a+Building+technician;and+I+am+learning+programming;to+become+an+IT+professional!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFFcenter=true&width=435&lines=Hi,+my+name+is+Claudiney;I+am+a+Building+technician;and+I+am+learning+programming;to+become+an+IT+professional!" alt="Typing SVG" />
 </h2>
 
 <p align="center">
@@ -19,16 +19,13 @@
 
 ## Main skills:
 
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## Tools:
-
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## Tools:
@@ -39,4 +36,4 @@
 
 ## Projetos em destaque
 
-- **Aura Argento** - e-commerce de joias (HTML, CSS e Python)
+- **Aura Argento** | e-commerce de joias (HTML, CSS e Python)
