@@ -5,13 +5,13 @@
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=claudineyfnscap&show_icons=true&theme=tokyonight&hide_border=true%22%20height=%22150%22%20 />
-  img src="./>
+  <img src="https://github-readme-stats.vercel.app/api?username=claudineyfnscap&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudineyfnscap&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/claudiney-fonseca-4023b4163" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudineyfnscap&layout=compact&theme=tokyonight&hide_border=true%22%20height=%22150%22%20/%3E />
+  <a href="https://www.linkedin.com/in/claudiney-fonseca-4023b4163">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 ## Main skills:
 --
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
