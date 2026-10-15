@@ -18,7 +18,7 @@
 ---
 
 ## Main skills:
-
+--
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
