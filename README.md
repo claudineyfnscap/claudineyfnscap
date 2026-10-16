@@ -15,10 +15,10 @@
   </a>
 </p>
 
----
+
 
 ## Main skills:
---
+
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge)
